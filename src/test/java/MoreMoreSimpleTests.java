@@ -16,7 +16,7 @@ public class MoreMoreSimpleTests {
 
     @Test
     void thirdTest() {
-        assertTrue(true);
+        assertTrue(false);
     }
 
     @Test
